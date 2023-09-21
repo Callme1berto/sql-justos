@@ -1,2 +1,3 @@
 # sql-justos
-SQL Exercises for Justos. 
+Hey, everyone! This is the repository where I put my SQL questions for Justos. 
+Thanks!
